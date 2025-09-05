@@ -8,16 +8,16 @@ const Projects = () => {
       <h1 className="text-2xl md:text-4xl text-white font-bold">Projects</h1>
       <div className="py-12 px-8 flex flex-wrap gap-5">
         <ProjectCard
-          title="Blogging Website"
-          main="this is a bloggin website created in next js and used some component library used some component library"
+          title="job portal (MERN)"
+          main="Developed a Job Portal using the MERN stack (MongoDB, Express.js, React.js, Node.js) with features like authentication, job postings, and application management. "
         />
         <ProjectCard
-          title="Youtue Clone"
-          main="this is a bloggin website created in next js and used some component library used some component library"
+          title="reusume builder(MERN)"
+          main="Built a Resume Builder application using the MERN stack (MongoDB, Express.js, React.js, Node.js) with features like dynamic resume templates, form-based input, and real-time preview"
         />
         <ProjectCard
-          title="Netflix Clone"
-          main="this is a blogging website created this ijsdjf l in next js and used some component library used some component library"
+          title="AI mock interview platform"
+          main="Developed an AI-powered Mock Interview Platform using Next.js, React, n8n, Clerk, Akole, and Arcjet, enabling users to practice interviews with secure authentication, workflow automation, and intelligent feedback "
         />
       </div>
     </div>

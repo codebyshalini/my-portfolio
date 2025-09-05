@@ -22,11 +22,14 @@ const About = () => {
                   Frontend developer
                 </h1>
                 <p className="text-sm md:text-md leading-tight">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Maiores explicabo deserunt asperiores quasi, vitae blanditiis
-                  perferendis quos consectetur ea harum! Libero aut qui
-                  similique recusandae provident consectetur sed itaque alias
-                  sint ipsa?
+                  :
+
+      💻 I’m a passionate Frontend Developer skilled in building modern, responsive, 
+          and user-friendly web applications. 
+          I have strong expertise in HTML, CSS, JavaScript, 
+         React.js, Next.js, and Tailwind CSS, enabling me to create clean designs with
+       efficient functionality. I enjoy transforming ideas into interactive digital 
+         experiences while keeping performance and usability at the core.
                 </p>
               </span>
             </div>
@@ -38,8 +41,12 @@ const About = () => {
                   Database developer
                 </h1>
                 <p className="text-sm md:text-md leading-tight">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Maiores
+                 🗄️ I have hands-on experience with MySQL and MongoDB,
+                  which allows me to work with both relational and non-relational databases. 
+                  I can design efficient database schemas, write optimized queries, 
+                  and manage data effectively to support scalable and secure applications.
+                   My ability to handle structured as well as unstructured data helps me
+                    build full-stack projects with strong and reliable backends.
                 </p>
               </span>
             </div>
@@ -51,9 +58,12 @@ const About = () => {
                   Backend developer
                 </h1>
                 <p className="text-sm md:text-md leading-tight">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Maiores explicabo deserunt asperiores quasi, vitae blanditiis
-                  perferendis
+                 ⚡ I am skilled in building and handling APIs using Node.js and Express.js, 
+                 ensuring secure, efficient, and scalable backend systems.
+                  I can design RESTful APIs, manage server-side logic, 
+                  and integrate databases seamlessly to deliver smooth communication between
+                   frontend and backend. With my expertise, I focus on creating reliable server
+                    architectures that power modern web applications.
                 </p>
               </span>
             </div>
